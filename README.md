@@ -1,2 +1,2 @@
 # Boxshooter
-Web based box shooter game
+Web based box shooter game with HTML and inline JS
